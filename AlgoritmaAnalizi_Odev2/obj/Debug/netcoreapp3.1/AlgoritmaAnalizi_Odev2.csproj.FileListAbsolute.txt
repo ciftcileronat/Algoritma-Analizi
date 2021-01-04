@@ -1,0 +1,13 @@
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\bin\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.exe
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\bin\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.deps.json
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\bin\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.runtimeconfig.json
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\bin\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.runtimeconfig.dev.json
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\bin\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.dll
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\bin\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.pdb
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\obj\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.csprojAssemblyReference.cache
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\obj\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.AssemblyInfoInputs.cache
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\obj\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.AssemblyInfo.cs
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\obj\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\obj\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.dll
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\obj\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.pdb
+C:\Users\Onat\Source\Repos\AlgoritmaAnalizi_Odev2\AlgoritmaAnalizi_Odev2\obj\Debug\netcoreapp3.1\AlgoritmaAnalizi_Odev2.genruntimeconfig.cache
